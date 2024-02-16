@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @henamark
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning computer engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Flutter devwloper
+- I’m interested in mobile application and website development
+- Computer Engineer
 
 <!---
 henamark/henamark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
