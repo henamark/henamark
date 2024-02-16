@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henamark
-- Flutter devwloper
+- Flutter developer
 - I’m interested in mobile application and website development
 - Computer Engineer
 
